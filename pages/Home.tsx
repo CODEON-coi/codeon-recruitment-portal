@@ -76,7 +76,7 @@ const Home: React.FC = () => {
             <Link to="/apply" className="w-full sm:w-auto px-8 py-4 rounded-xl bg-codeon-accent text-codeon-dark font-bold text-lg hover:bg-emerald-400 transition-all hover:scale-105 shadow-[0_0_30px_rgba(16,185,129,0.4)] flex items-center justify-center">
               Initialize Application <ArrowRight className="ml-2 w-5 h-5" />
             </Link>
-            <a href="/assets/team-structure.pdf" target="_blank" rel="noopener noreferrer" className="w-full sm:w-auto px-8 py-4 rounded-xl bg-white/5 text-white font-semibold hover:bg-white/10 transition-all border border-white/10 flex items-center justify-center backdrop-blur-sm">
+            <a href="https://drive.google.com/file/d/1mc8RtyxHwLk-xNwHijITxspwBFUM6XMP/preview" target="_blank" rel="noopener noreferrer" className="w-full sm:w-auto px-8 py-4 rounded-xl bg-white/5 text-white font-semibold hover:bg-white/10 transition-all border border-white/10 flex items-center justify-center backdrop-blur-sm">
               View Documentation
             </a>
           </motion.div>
